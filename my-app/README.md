@@ -61,7 +61,7 @@ For more information on using the Angular CLI, including detailed command refere
 
 ## CLI: create new component
 
-***
+```
 ng g c user
-***
+```
 where user is the component name
